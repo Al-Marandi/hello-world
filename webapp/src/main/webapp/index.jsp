@@ -32,6 +32,5 @@
   </div>
 
    <h1> Thank you, Happy Learning! </h1>
-   <h1> automate pipeline with docker! </h1>
-  
+   <h1> ansible push an image to dockerhub! </h1>
 </form>
