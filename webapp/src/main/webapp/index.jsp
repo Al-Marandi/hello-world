@@ -25,12 +25,12 @@
     <hr>
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
-    <button type="submit" class="registerbtn">Register</button>
+    <button type="submit" class="registerbtn">register</button>
   </div>
   <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
+    <p>Already have an account? <a href="#">sign in</a>.</p>
   </div>
 
    <h1> Thank you, Happy Learning! </h1>
-   <h1> jenkins pipeline script [direct commit from github] ! </h1>
+   <h1> jenkins pipeline script [change button desc to lower case] ! </h1>
 </form>
