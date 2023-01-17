@@ -32,5 +32,5 @@
   </div>
 
    <h1> Thank you, Happy Learning! </h1>
-   <h1> jenkins pipeline script [direct commit initiate from github] ! </h1>
+   <h1> jenkins pipeline script [direct commit from github] ! </h1>
 </form>
