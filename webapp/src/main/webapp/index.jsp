@@ -32,5 +32,5 @@
   </div>
 
    <h1> Thank you, Happy Learning! </h1>
-   <h1> jenkins pipeline script [test kubernetes integration with CICD initiated with git commit] ! </h1>
+   <h1> jenkins pipeline script [test kubernetes integration with CICD initiated with git commit2] ! </h1>
 </form>
