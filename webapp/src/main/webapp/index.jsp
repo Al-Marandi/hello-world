@@ -24,7 +24,7 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
-    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+    <p>By creating an account you agree to our <a href="#">terms & privacy</a>.</p>
     <button type="submit" class="Registerbtn">register</button>
   </div>
   <div class="container signin">
@@ -32,5 +32,5 @@
   </div>
 
    <h1> Thank you, Happy Learning! </h1>
-   <h1> jenkins pipeline script [mobile -> Mobile] ! </h1>
+   <h1> jenkins pipeline script [terms & privacy] ! </h1>
 </form>
