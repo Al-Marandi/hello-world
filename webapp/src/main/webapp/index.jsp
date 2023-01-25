@@ -8,7 +8,7 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter mobile</b></label>
+    <label for="mobile"><b>Enter Mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
@@ -32,5 +32,5 @@
   </div>
 
    <h1> Thank you, Happy Learning! </h1>
-   <h1> jenkins pipeline script [test kubernetes integration with CICD initiated with direct git commit] ! </h1>
+   <h1> jenkins pipeline script [mobile -> Mobile] ! </h1>
 </form>
